@@ -4,7 +4,7 @@ A program written in batch that will patch your Wii Shop Channel to work with Op
 
 ### --- Features ---
 * Auto updating - Always stay updated!
-* User can decide if they wants the channel to be installed as separate channel or replace Wii Shop Channel.
+* User can decide if they want the channel to be installed as separate channel or replace Wii Shop Channel.
 * The entire program is about 1MB!
 * You can download the best WAD Manager using the patcher - Wii Mod Lite.
 * Support for Windows XP
